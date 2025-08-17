@@ -2,6 +2,10 @@
 
 A simple demo app as a challenge task for LanesPLanes.
 
+
+https://github.com/user-attachments/assets/c8bdbabd-2a0f-40e4-a789-67746b702866
+
+
 <img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2019/08/CleanArchitecture.jpg" alt="Clean Architecture" width="750"/>
 
 # Final Architecture
